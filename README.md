@@ -8,6 +8,12 @@ The configurations allows for defining color schemes, fonts, wallpaper and measu
 By using it as a library, other scripts can use it do get theming information defined in the aforementioned config.
 Currently using it with a theme templating engine to generate consistent look and feel across apps, terminal emulators, launchers and window manager.
 
-**Sample Config** : https://github.com/Brannigan123/blessed-theme-config
+**Sample Config** :
 
-**Template Engine riding on this** : https://github.com/Brannigan123/blessed-template-engine
+> https://github.com/Brannigan123/blessed-theme-config
+
+**Template Engine riding on this** :
+
+> https://github.com/Brannigan123/blessed-template-engine
+
+> https://github.com/Brannigan123/blessed-icon-template
