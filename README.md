@@ -10,4 +10,4 @@ Currently using it with a theme templating engine to generate consistent look an
 
 **Sample Config** : https://github.com/Brannigan123/blessed-theme-config
 
-**Template Engine riding on this** : https://github.com/Brannigan123/blessed-theme-template-engine
+**Template Engine riding on this** : https://github.com/Brannigan123/blessed-template-engine
